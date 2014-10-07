@@ -1,0 +1,34 @@
+Bio-ViennaNGS-Fasta
+===================
+
+This modules provides a Moose wrapper for Bio::DB::Fasta objects. 
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Bio::DB::Fasta
+  Moose
+  Carp
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2014 by Michael T. Wolfinger
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.16.3 or,
+at your option, any later version of Perl 5 you may have available.
+
+This software is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+

@@ -1,0 +1,9 @@
+Revision history for Perl extension Bio::ViennaNGS::Fasta.
+
+0.01  Tue Oct 7 2014
+	- original version; created by h2xs 1.23 with options
+		-XA -n Bio::ViennaNGS::Fasta
+	- implemented 'fa', 'fastadb' and 'fastaids' attributes
+	- updated README
+	- updated POD
+

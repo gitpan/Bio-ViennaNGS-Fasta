@@ -1,0 +1,24 @@
+---
+abstract: 'Moose warapper for Bio::DB::Fasta'
+author:
+  - 'Michael T. Wolfinger <michael@wolfinger.eu>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.64, CPAN::Meta::Converter version 2.120921'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Bio-ViennaNGS-Fasta
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  Bio::DB::Fasta: 0
+  Carp: 0
+  Moose: 0
+version: v0.1.0
